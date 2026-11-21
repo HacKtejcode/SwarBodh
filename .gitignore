@@ -1,0 +1,94 @@
+# ==========================================
+# SwarBodh Root Git Ignore
+# ==========================================
+
+# --- Environments & Secrets (CRITICAL: Do NOT commit) ---
+.env
+.env*.local
+*.env
+backend/.env
+
+# --- Databases & Local State ---
+*.db
+*.sqlite
+*.sqlite3
+voice_strain.db
+records.db
+backend/voice_strain.db
+backend/records.db
+
+# --- Node & Mobile (Expo / React Native) ---
+node_modules/
+mobile-app/node_modules/
+.expo/
+mobile-app/.expo/
+backend/.expo/
+dist/
+web-build/
+mobile-app/dist/
+mobile-app/web-build/
+expo-env.d.ts
+mobile-app/expo-env.d.ts
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Generated native directories
+/ios/
+/android/
+mobile-app/ios/
+mobile-app/android/
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# --- Python ---
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+backend/venv/
+venv/
+.venv/
+env/
+ENV/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+
+# --- Documents & Reports (Keep local, exclude from repo) ---
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# --- Audio Recordings & Large Raw WAV Drones ---
+# Raw uncompressed drone WAV files (>100MB per file, GitHub reject limit)
+mobile-app/tanpura_wav/
+# Session / debug captures
+iot_recordings/
+backend/iot_debug_capture.wav
+*.wav.tmp
+
+# --- IDE & OS ---
+.vscode/
+mobile-app/.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tsbuildinfo

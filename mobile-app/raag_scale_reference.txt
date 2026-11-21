@@ -1,0 +1,601 @@
+================================================================================
+RAAG & SCALE COMPLETE REFERENCE — VERIFICATION DATA
+================================================================================
+Format: Each raag entry contains:
+  - Raag Name
+  - Thaat (parent scale family)
+  - Aaroh (ascending notes)
+  - Avaroh (descending notes)
+  - Swara Notation (Indian: S R G M P D N / komal=lowercase / tivra=symbol#)
+  - Western Scale Equivalent
+  - Notes on C (Western note names when Sa = C)
+  - Scale Degrees (relative intervals)
+  - Time of performance
+  - Mood / Rasa
+  - Vadi (most important note)
+  - Samvadi (second most important note)
+
+SWARA KEY:
+  S  = Sa  (1st  — always natural)
+  R  = Re shuddha (2nd)  | r = Re komal (flat 2nd)
+  G  = Ga shuddha (3rd)  | g = Ga komal (flat 3rd)
+  M  = Ma shuddha (4th)  | M# = Ma tivra (sharp 4th)
+  P  = Pa  (5th  — always natural)
+  D  = Dha shuddha (6th) | d = Dha komal (flat 6th)
+  N  = Ni shuddha (7th)  | n = Ni komal (flat 7th)
+
+WESTERN SCALE DEGREE KEY:
+  1=Sa  b2=komal Re  2=Re  b3=komal Ga  3=Ga
+  4=Ma  #4=tivra Ma  5=Pa  b6=komal Dha  6=Dha  b7=komal Ni  7=Ni
+
+================================================================================
+THAAT 1: BILAWAL  (Western: Ionian / Major)
+Base scale: S R G M P D N  =  1 2 3 4 5 6 7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Bilawal
+--------------------------------------------------------------------------------
+Thaat        : Bilawal
+Aaroh        : S R G M P D N S'
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M P D N  (all shuddha)
+Western Scale: Ionian (Major Scale)
+Notes on C   : C  D  E  F  G  A  B
+Scale Degrees: 1  2  3  4  5  6  7
+Vadi         : Dha (D)
+Samvadi      : Ga (G)
+Time         : Morning (6am–9am)
+Mood/Rasa    : Joyful, bright, devotional
+
+--------------------------------------------------------------------------------
+RAAG: Alhaiya Bilawal
+--------------------------------------------------------------------------------
+Thaat        : Bilawal
+Aaroh        : S R G P D N S'  (Ma omitted in ascent)
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M P D N
+Western Scale: Major (hexatonic ascent)
+Notes on C   : C  D  E  -  G  A  B  (ascent) / C D E F G A B (descent)
+Scale Degrees: 1  2  3  5  6  7 (ascent) / 1 2 3 4 5 6 7 (descent)
+Vadi         : Dha (D)
+Samvadi      : Ga (G)
+Time         : Morning
+Mood/Rasa    : Serene, devotional
+
+--------------------------------------------------------------------------------
+RAAG: Durga
+--------------------------------------------------------------------------------
+Thaat        : Bilawal
+Aaroh        : S R M P D S'
+Avaroh       : S' D P M R S
+Swaras       : S R M P D  (pentatonic — Ga & Ni omitted)
+Western Scale: Major Pentatonic (2nd mode / suspended pentatonic)
+Notes on C   : C  D  F  G  A
+Scale Degrees: 1  2  4  5  6
+Vadi         : Re (R)
+Samvadi      : Dha (D)
+Time         : Evening
+Mood/Rasa    : Joyful, bright, auspicious
+
+--------------------------------------------------------------------------------
+RAAG: Hamsadhvani
+--------------------------------------------------------------------------------
+Thaat        : Bilawal (derived)
+Aaroh        : S R G P N S'
+Avaroh       : S' N P G R S
+Swaras       : S R G P N  (pentatonic — Ma & Dha omitted)
+Western Scale: Major Pentatonic variant (1 2 3 5 7)
+Notes on C   : C  D  E  G  B
+Scale Degrees: 1  2  3  5  7
+Vadi         : Ga (G)
+Samvadi      : Ni (N)
+Time         : Evening
+Mood/Rasa    : Happy, auspicious, celebratory
+
+--------------------------------------------------------------------------------
+RAAG: Pahadi
+--------------------------------------------------------------------------------
+Thaat        : Bilawal
+Aaroh        : S R G P D S'  (Ma & Ni occasional)
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M P D N  (uses both M and N occasionally)
+Western Scale: Major Pentatonic (base) / Major (full)
+Notes on C   : C  D  E  G  A  (base pentatonic)
+Scale Degrees: 1  2  3  5  6
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Any time (folk raag)
+Mood/Rasa    : Free, folk, joyful, Himalayan
+
+--------------------------------------------------------------------------------
+RAAG: Mand
+--------------------------------------------------------------------------------
+Thaat        : Bilawal
+Aaroh        : S G R G P D S'
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M P D n N  (uses both Ni komal & shuddha)
+Western Scale: Major / Mixolydian mix
+Notes on C   : C  D  E  F  G  A  Bb  B
+Scale Degrees: 1  2  3  4  5  6  b7  7
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Night
+Mood/Rasa    : Folk, romantic, Rajasthani
+
+================================================================================
+THAAT 2: KALYAN  (Western: Lydian)
+Base scale: S R G M# P D N  =  1 2 3 #4 5 6 7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Yaman (Kalyan)
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : N R G M# D N S'
+Avaroh       : S' N D M# G R S
+Swaras       : S R G M# P D N  (tivra Ma — sharp 4th)
+Western Scale: Lydian Mode
+Notes on C   : C  D  E  F# G  A  B
+Scale Degrees: 1  2  3  #4  5  6  7
+Vadi         : Ga (G)
+Samvadi      : Ni (N)
+Time         : Early evening (6pm–9pm)
+Mood/Rasa    : Romantic, peaceful, expansive
+
+--------------------------------------------------------------------------------
+RAAG: Bhup (Bhoopali)
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : S R G P D S'
+Avaroh       : S' D P G R S
+Swaras       : S R G P D  (pentatonic — Ma & Ni omitted)
+Western Scale: Major Pentatonic
+Notes on C   : C  D  E  G  A
+Scale Degrees: 1  2  3  5  6
+Vadi         : Ga (G)
+Samvadi      : Dha (D)
+Time         : Evening
+Mood/Rasa    : Peaceful, sweet, serene
+
+--------------------------------------------------------------------------------
+RAAG: Kedar
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : S M M# P D S'  (unusual movement)
+Avaroh       : S' D P M# M G R S
+Swaras       : S R G M M# P D N  (uses both Ma shuddha & tivra)
+Western Scale: Lydian / Ionian blend
+Notes on C   : C  D  E  F  F# G  A  B
+Scale Degrees: 1  2  3  4  #4  5  6  7
+Vadi         : Ma (M)
+Samvadi      : Sa (S)
+Time         : Night
+Mood/Rasa    : Devotional, meditative
+
+--------------------------------------------------------------------------------
+RAAG: Shyam Kalyan
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : S R G M# P D n S'
+Avaroh       : S' n D P M# G R S
+Swaras       : S R G M# P D n  (tivra Ma + komal Ni)
+Western Scale: Lydian b7 (Acoustic / Overtone scale)
+Notes on C   : C  D  E  F# G  A  Bb
+Scale Degrees: 1  2  3  #4  5  6  b7
+Vadi         : Ga (G)
+Samvadi      : Dha (D)
+Time         : Evening
+Mood/Rasa    : Romantic, gentle
+
+--------------------------------------------------------------------------------
+RAAG: Yaman Kalyan
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : S R G M M# P D N S'
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M M# P D N  (both Ma)
+Western Scale: Lydian / Major mix
+Notes on C   : C  D  E  F  F# G  A  B
+Scale Degrees: 1  2  3  4  #4  5  6  7
+Vadi         : Ga (G)
+Samvadi      : Ni (N)
+Time         : Evening
+Mood/Rasa    : Gentle, meditative
+
+--------------------------------------------------------------------------------
+RAAG: Gorakh Kalyan
+--------------------------------------------------------------------------------
+Thaat        : Kalyan
+Aaroh        : S R g M# P D N S'
+Avaroh       : S' N D P M# g R S
+Swaras       : S R g M# P D N  (komal Ga + tivra Ma)
+Western Scale: Lydian b3
+Notes on C   : C  D  Eb F# G  A  B
+Scale Degrees: 1  2  b3  #4  5  6  7
+Vadi         : Ma# (M#)
+Samvadi      : Sa (S)
+Time         : Evening
+Mood/Rasa    : Serious, rare, contemplative
+
+================================================================================
+THAAT 3: KHAMAJ  (Western: Mixolydian)
+Base scale: S R G M P D n  =  1 2 3 4 5 6 b7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Khamaj
+--------------------------------------------------------------------------------
+Thaat        : Khamaj
+Aaroh        : S R G M P D n S'
+Avaroh       : S' N D P M G R S  (uses both Ni)
+Swaras       : S R G M P D n N  (both Ni komal & shuddha)
+Western Scale: Mixolydian (dominant 7th scale)
+Notes on C   : C  D  E  F  G  A  Bb
+Scale Degrees: 1  2  3  4  5  6  b7
+Vadi         : Ga (G)
+Samvadi      : Ni komal (n)
+Time         : Night
+Mood/Rasa    : Romantic, light, playful
+
+--------------------------------------------------------------------------------
+RAAG: Desh
+--------------------------------------------------------------------------------
+Thaat        : Khamaj
+Aaroh        : S R M P N S'  (Ga & Dha omitted in ascent)
+Avaroh       : S' N D P M G R S
+Swaras       : S R G M P D n N
+Western Scale: Mixolydian (with both Ni)
+Notes on C   : C  D  E  F  G  A  Bb  B
+Scale Degrees: 1  2  3  4  5  6  b7  7
+Vadi         : Re (R)
+Samvadi      : Pa (P)
+Time         : Late evening / night
+Mood/Rasa    : Romantic, pining, longing
+
+--------------------------------------------------------------------------------
+RAAG: Kalavati
+--------------------------------------------------------------------------------
+Thaat        : Khamaj
+Aaroh        : S R G P n S'
+Avaroh       : S' n P G R S
+Swaras       : S R G P n  (pentatonic)
+Western Scale: Mixolydian pentatonic (1 2 3 5 b7)
+Notes on C   : C  D  E  G  Bb
+Scale Degrees: 1  2  3  5  b7
+Vadi         : Ga (G)
+Samvadi      : Ni komal (n)
+Time         : Night
+Mood/Rasa    : Light, romantic
+
+================================================================================
+THAAT 4: KAFI  (Western: Dorian)
+Base scale: S R g M P D n  =  1 2 b3 4 5 6 b7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Kafi
+--------------------------------------------------------------------------------
+Thaat        : Kafi
+Aaroh        : S R g M P D n S'
+Avaroh       : S' n D P M g R S
+Swaras       : S R g M P D n
+Western Scale: Dorian Mode
+Notes on C   : C  D  Eb F  G  A  Bb
+Scale Degrees: 1  2  b3  4  5  6  b7
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Midnight
+Mood/Rasa    : Longing, devotional, Holi season
+
+--------------------------------------------------------------------------------
+RAAG: Bageshri
+--------------------------------------------------------------------------------
+Thaat        : Kafi
+Aaroh        : S g M D n S'  (Re & Pa omitted in ascent)
+Avaroh       : S' n D P M g R S
+Swaras       : S R g M P D n
+Western Scale: Dorian
+Notes on C   : C  D  Eb F  G  A  Bb
+Scale Degrees: 1  2  b3  4  5  6  b7
+Vadi         : Ma (M)
+Samvadi      : Sa (S)
+Time         : Late night (midnight)
+Mood/Rasa    : Romantic, longing, melancholic
+
+--------------------------------------------------------------------------------
+RAAG: Jog
+--------------------------------------------------------------------------------
+Thaat        : Khamaj / Bhairavi mix
+Aaroh        : S g M P N S'
+Avaroh       : S' N n D P M g S
+Swaras       : S g M P N n  (both Ni, no Re, no Dha in ascent)
+Western Scale: Mixolydian b3
+Notes on C   : C  Eb F  G  Bb B
+Scale Degrees: 1  b3  4  5  b7  7
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Night
+Mood/Rasa    : Contemplative, meditative
+
+================================================================================
+THAAT 5: ASAVARI  (Western: Aeolian / Natural Minor)
+Base scale: S R g M P d n  =  1 2 b3 4 5 b6 b7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Asavari
+--------------------------------------------------------------------------------
+Thaat        : Asavari
+Aaroh        : S R M P S'  (pentatonic ascent)
+Avaroh       : S' d P M g R S
+Swaras       : S R g M P d n
+Western Scale: Natural Minor (Aeolian)
+Notes on C   : C  D  Eb F  G  Ab Bb
+Scale Degrees: 1  2  b3  4  5  b6  b7
+Vadi         : Dha komal (d)
+Samvadi      : Ga komal (g)
+Time         : Morning
+Mood/Rasa    : Pathetic, serious, despondent
+
+--------------------------------------------------------------------------------
+RAAG: Darbari Kanada
+--------------------------------------------------------------------------------
+Thaat        : Asavari
+Aaroh        : S R g M P d n S'  (with andolan/oscillation on g and d)
+Avaroh       : S' n d P M g R S
+Swaras       : S R g M P d n
+Western Scale: Aeolian / Phrygian mixture (due to andolan)
+Notes on C   : C  D  Eb F  G  Ab Bb
+Scale Degrees: 1  2  b3  4  5  b6  b7
+Vadi         : Re (R)
+Samvadi      : Pa (P)
+Time         : Late night (after midnight)
+Mood/Rasa    : Grave, dignified, royal, serious
+
+--------------------------------------------------------------------------------
+RAAG: Kirwani
+--------------------------------------------------------------------------------
+Thaat        : Asavari / Bhairavi
+Aaroh        : S R g M P d N S'
+Avaroh       : S' N d P M g R S
+Swaras       : S R g M P d N  (komal Ga & Dha, shuddha Ni)
+Western Scale: Harmonic Minor
+Notes on C   : C  D  Eb F  G  Ab B
+Scale Degrees: 1  2  b3  4  5  b6  7
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Night
+Mood/Rasa    : Emotional, expressive, poignant
+
+================================================================================
+THAAT 6: BHAIRAVI  (Western: Phrygian / All-flat)
+Base scale: S r g M P d n  =  1 b2 b3 4 5 b6 b7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Bhairavi
+--------------------------------------------------------------------------------
+Thaat        : Bhairavi
+Aaroh        : S r g M P d n S'
+Avaroh       : S' n d P M g r S
+Swaras       : S r g M P d n  (all swaras komal except Sa, Ma, Pa)
+Western Scale: Phrygian Mode
+Notes on C   : C  Db Eb F  G  Ab Bb
+Scale Degrees: 1  b2  b3  4  5  b6  b7
+Vadi         : Ma (M)
+Samvadi      : Sa (S)
+Time         : Morning (concluding raag, sung at end of concert)
+Mood/Rasa    : Melancholic, surrender, devotional
+
+--------------------------------------------------------------------------------
+RAAG: Malkauns
+--------------------------------------------------------------------------------
+Thaat        : Bhairavi
+Aaroh        : S g M d n S'
+Avaroh       : S' n d M g S
+Swaras       : S g M d n  (pentatonic — Re & Pa omitted)
+Western Scale: Minor Pentatonic
+Notes on C   : C  Eb F  Ab Bb
+Scale Degrees: 1  b3  4  b6  b7
+Vadi         : Ma (M)
+Samvadi      : Sa (S)
+Time         : Late night (after midnight)
+Mood/Rasa    : Grave, powerful, intense, fierce
+
+--------------------------------------------------------------------------------
+RAAG: Chandrakauns
+--------------------------------------------------------------------------------
+Thaat        : Bhairavi (derived)
+Aaroh        : S g M d N S'
+Avaroh       : S' N d M g S
+Swaras       : S g M d N  (pentatonic — komal Ga & Dha, shuddha Ni)
+Western Scale: Augmented scale variant (1 b3 4 b6 7)
+Notes on C   : C  Eb F  Ab B
+Scale Degrees: 1  b3  4  b6  7
+Vadi         : Ma (M)
+Samvadi      : Ga komal (g)
+Time         : Late night
+Mood/Rasa    : Mysterious, romantic, meditative
+
+--------------------------------------------------------------------------------
+RAAG: Bairagi
+--------------------------------------------------------------------------------
+Thaat        : Bhairav / Bhairavi
+Aaroh        : S r M P n S'
+Avaroh       : S' n P M r S
+Swaras       : S r M P n  (pentatonic — komal Re & Ni)
+Western Scale: Phrygian pentatonic (1 b2 4 5 b7)
+Notes on C   : C  Db F  G  Bb
+Scale Degrees: 1  b2  4  5  b7
+Vadi         : Pa (P)
+Samvadi      : Sa (S)
+Time         : Early morning (dawn)
+Mood/Rasa    : Renunciation, peace, devotional
+
+================================================================================
+THAAT 7: BHAIRAV  (Western: Double Harmonic / Byzantine)
+Base scale: S r G M P d N  =  1 b2 3 4 5 b6 7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Bhairav
+--------------------------------------------------------------------------------
+Thaat        : Bhairav
+Aaroh        : S r G M P d N S'
+Avaroh       : S' N d P M G r S
+Swaras       : S r G M P d N  (komal Re & Dha, shuddha Ga & Ni)
+Western Scale: Double Harmonic Major (Byzantine scale)
+Notes on C   : C  Db E  F  G  Ab B
+Scale Degrees: 1  b2  3  4  5  b6  7
+Vadi         : Re komal (r)
+Samvadi      : Dha komal (d)
+Time         : Morning (dawn, 6am–9am)
+Mood/Rasa    : Devotional, solemn, meditative
+
+================================================================================
+THAAT 8: TODI  (Western: Todi / Lydian b2 b3 b6)
+Base scale: S r g M# P d N  =  1 b2 b3 #4 5 b6 7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Miyan ki Todi
+--------------------------------------------------------------------------------
+Thaat        : Todi
+Aaroh        : S r g M# P d N S'
+Avaroh       : S' N d P M# g r S
+Swaras       : S r g M# P d N  (komal Re, Ga, Dha + tivra Ma)
+Western Scale: Todi / Neapolitan Minor variant
+Notes on C   : C  Db Eb F# G  Ab B
+Scale Degrees: 1  b2  b3  #4  5  b6  7
+Vadi         : Dha komal (d)
+Samvadi      : Ga komal (g)
+Time         : Late morning (10am–12pm)
+Mood/Rasa    : Intense, serious, concentrated
+
+================================================================================
+THAAT 9: PURVI  (Western: Lydian b2 b6)
+Base scale: S r G M# P d N  =  1 b2 3 #4 5 b6 7
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Purvi
+--------------------------------------------------------------------------------
+Thaat        : Purvi
+Aaroh        : S r G M# P d N S'
+Avaroh       : S' N d P M# G r S
+Swaras       : S r G M# P d N  (komal Re & Dha, tivra Ma, shuddha Ga & Ni)
+Western Scale: Lydian b2 b6
+Notes on C   : C  Db E  F# G  Ab B
+Scale Degrees: 1  b2  3  #4  5  b6  7
+Vadi         : Ga (G)
+Samvadi      : Ni (N)
+Time         : Sunset (evening)
+Mood/Rasa    : Serious, devotional, twilight
+
+--------------------------------------------------------------------------------
+RAAG: Lalit
+--------------------------------------------------------------------------------
+Thaat        : Purvi
+Aaroh        : S r G M M# d N S'  (Pa omitted — no 5th!)
+Avaroh       : S' N d M# M G r S
+Swaras       : S r G M M# d N  (both Ma, no Pa)
+Western Scale: Lydian b2 b6 (no 5th, both 4th & #4th)
+Notes on C   : C  Db E  F  F# Ab B
+Scale Degrees: 1  b2  3  4  #4  b6  (no 5)
+Vadi         : Ma (M)
+Samvadi      : Sa (S)
+Time         : Pre-dawn (3am–6am)
+Mood/Rasa    : Serious, intense, yearning
+
+================================================================================
+THAAT 10: MARWA  (Western: Lydian b2, no 5th)
+Base scale: S r G M# D N  =  1 b2 3 #4 6 7  (Pa omitted)
+================================================================================
+
+--------------------------------------------------------------------------------
+RAAG: Marwa
+--------------------------------------------------------------------------------
+Thaat        : Marwa
+Aaroh        : S r G M# D N S'  (Pa omitted)
+Avaroh       : S' N D M# G r S
+Swaras       : S r G M# D N  (no Pa — 5th omitted)
+Western Scale: Lydian b2, no perfect 5th
+Notes on C   : C  Db E  F# -  A  B
+Scale Degrees: 1  b2  3  #4  -  6  7
+Vadi         : Re komal (r)
+Samvadi      : Dha (D)
+Time         : Sunset (just before evening)
+Mood/Rasa    : Anxious, searching, restless, unsettled
+
+================================================================================
+WESTERN ↔ RAAG QUICK LOOKUP TABLE
+================================================================================
+
+Western Scale          | Key Raags
+-----------------------|----------------------------------------------------------
+Major (Ionian)         | Bilawal, Alhaiya Bilawal
+Lydian                 | Yaman, Kalyan, Bhup (pent.)
+Mixolydian             | Khamaj, Desh
+Dorian                 | Kafi, Bageshri
+Aeolian (Nat. Minor)   | Asavari, Darbari Kanada
+Phrygian               | Bhairavi
+Harmonic Minor         | Kirwani
+Double Harmonic        | Bhairav
+Major Pentatonic       | Bhup, Pahadi, Hamsadhvani
+Minor Pentatonic       | Malkauns
+Lydian b7 (Acoustic)   | Shyam Kalyan
+Lydian b2 b6           | Purvi
+Lydian b2 b3 b6        | Todi
+Lydian b2 (no 5th)     | Marwa
+Lydian b2 b6 (no 5th)  | Lalit
+Augmented variant      | Chandrakauns
+Phrygian pentatonic    | Bairagi
+Mixolydian b3          | Jog
+Lydian b3              | Gorakh Kalyan
+Lydian/Major blend     | Kedar, Yaman Kalyan
+Major + Mixolydian     | Mand, Khamaj
+
+================================================================================
+NOTATION GUIDE — SWARA POSITIONS (Sa = C reference)
+================================================================================
+
+Swara       | Indian Symbol | Western Note | MIDI # (Sa=C4=60)
+------------|---------------|--------------|-------------------
+Sa          | S             | C            | 60
+Re komal    | r             | Db           | 61
+Re shuddha  | R             | D            | 62
+Ga komal    | g             | Eb           | 63
+Ga shuddha  | G             | E            | 64
+Ma shuddha  | M             | F            | 65
+Ma tivra    | M#            | F#           | 66
+Pa          | P             | G            | 67
+Dha komal   | d             | Ab           | 68
+Dha shuddha | D             | A            | 69
+Ni komal    | n             | Bb           | 70
+Ni shuddha  | N             | B            | 71
+Sa (upper)  | S'            | C (octave)   | 72
+
+================================================================================
+THAAT COMPARISON — ALL 10 THAATS
+================================================================================
+
+Thaat       | S  | Re | Ga | Ma | Pa | Dha | Ni  | Western Equivalent
+------------|----|----|----|----|----|----|-----|--------------------
+Bilawal     | S  | R  | G  | M  | P  | D  | N   | Ionian (Major)
+Kalyan      | S  | R  | G  | M# | P  | D  | N   | Lydian
+Khamaj      | S  | R  | G  | M  | P  | D  | n   | Mixolydian
+Kafi        | S  | R  | g  | M  | P  | D  | n   | Dorian
+Asavari     | S  | R  | g  | M  | P  | d  | n   | Aeolian (Nat. Minor)
+Bhairavi    | S  | r  | g  | M  | P  | d  | n   | Phrygian
+Bhairav     | S  | r  | G  | M  | P  | d  | N   | Double Harmonic
+Todi        | S  | r  | g  | M# | P  | d  | N   | Todi (unique)
+Purvi       | S  | r  | G  | M# | P  | d  | N   | Purvi (unique)
+Marwa       | S  | r  | G  | M# | -  | D  | N   | Marwa (no Pa)
+
+================================================================================
+END OF REFERENCE FILE
+Total Raags documented: 30
+Total Thaats covered: 10
+Western scales mapped: 20+
+================================================================================
