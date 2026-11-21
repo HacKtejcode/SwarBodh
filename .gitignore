@@ -86,6 +86,7 @@ backend/iot_debug_capture.wav
 *.wav.tmp
 
 # --- IDE & OS ---
+scratch/
 .vscode/
 mobile-app/.vscode/
 .idea/
